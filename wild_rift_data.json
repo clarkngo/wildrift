@@ -1,0 +1,43 @@
+{
+  "champions": [
+    {
+      "name": "Ahri",
+      "baseStats": { "AP": 0, "AD": 58, "HP": 570 }
+    },
+    {
+      "name": "Darius",
+      "baseStats": { "AP": 0, "AD": 64, "HP": 650 }
+    },
+    {
+      "name": "Jinx",
+      "baseStats": { "AP": 0, "AD": 59, "HP": 560 }
+    }
+  ],
+  "items": [
+    {
+      "name": "Luden's Echo",
+      "stats": { "AP": 80, "AD": 0, "HP": 0 },
+      "goldCost": 3000
+    },
+    {
+      "name": "Infinity Edge",
+      "stats": { "AP": 0, "AD": 65, "HP": 0 },
+      "goldCost": 3400
+    },
+    {
+      "name": "Rabadon's Deathcap",
+      "stats": { "AP": 120, "AD": 0, "HP": 0 },
+      "goldCost": 3500
+    },
+    {
+      "name": "Black Cleaver",
+      "stats": { "AP": 0, "AD": 40, "HP": 400 },
+      "goldCost": 3100
+    },
+    {
+      "name": "Warmog's Armor",
+      "stats": { "AP": 0, "AD": 0, "HP": 700 },
+      "goldCost": 3000
+    }
+  ]
+}
